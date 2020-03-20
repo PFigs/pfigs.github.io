@@ -1,5 +1,9 @@
 layout: sidebar
-style: ligth
+style: dark
+# background_color_right: "#262626"
+# background_color_left: "#4A4A4A"
+# accent_green:  "#71DE95"
+
 
 plugins:
   - jekyll-octicons
